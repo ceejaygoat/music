@@ -1,6 +1,6 @@
 <?php
 // Database connection
-$servername = "localhost";
+$servername = "https://github.com/ceejaygoat/music.git";
 $username = "root";
 $password = "";
 $dbname = "amap_records";
